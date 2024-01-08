@@ -37,8 +37,8 @@
           <div class="container">
           <br><br>
           <a href="https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57201337877&zone=">Scopus</a><br>
-          <a href="https://orcid.org/0000-0001-5646-3213">ORCid</a><br>
-          <a href="https://dblp.org/pid/152/3807.html">DBLP</a><br>
+          <a href="">ORCid</a><br>
+          <a href="https://dblp.org/pid/214/7156.html">DBLP</a><br>
           </div>
         </div>
       </div>
