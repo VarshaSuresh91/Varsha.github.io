@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link href="style.css" rel="stylesheet">
-    <title>Dr. Swaminathan J</title>
+    <title>Varsha P Suresh</title>
   </head>
   <body>
     <nav class="navbar navbar-dark bg-secondary">
@@ -25,7 +25,7 @@
         <div class="col-lg-4 col-md-4 col-sm-6">
           <div class="card-body">
             <h5 class="card-title">Dr. Swaminathan J</h5>
-            <p class="card-text">Associate Professor<br>
+            <p class="card-text">Assisstant Professor<br>
               Amrita School of Computing<br>
               Amritapuri Campus<br>
               Amrita Vishwa Vidyapeetham<br>
@@ -36,9 +36,7 @@
         <div class="col-lg-4 col-md-2 col-sm-6">
           <div class="container">
           <br><br>
-          <a href="#">ACM Member</a><br>
-          <a href="#">IEEE Senior Member</a><br>
-          <a href="https://www.scopus.com/authid/detail.uri?authorId=56405367200">Scopus</a><br>
+          <a href="https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57201337877&zone=">Scopus</a><br>
           <a href="https://orcid.org/0000-0001-5646-3213">ORCid</a><br>
           <a href="https://dblp.org/pid/152/3807.html">DBLP</a><br>
           </div>
@@ -55,9 +53,9 @@
           </h2>
           <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne">
             <div class="accordion-body">
-              <p>Dr. Swaminathan J. currently serves as an Associate Professor and Chairperson Department of CSE and AI at the School of Computing, Amrita Vishwa Vidyapeetham, Amritapuri. He has completed M. Tech. in Computer Science. He has close 25 years of overall experience including 10 ½ years with IT major Wipro Technologies. At Wipro he served in various capacities including software engineer, project lead, consultant, project manager and delivery manager in product engineering, network protocol maintenance and enterprise application development.</p>
-              <p>He is passionate about teaching and his teaching interests include computational thinking, programming, algorithms, data structures, networking and distributed computing. He alsos lead the ACM Code @Amrita club dedicated to competitive programming at the campus that mentors students to take part in national and international coding competitions such as ACM ICPC. Apart from these, he guides B. Tech. projects, M. Tech. dissertations and Ph. D. theses.</p>
-              <p>He has about 30 research publications in reputed international journals and conferences. He is part of numerous initiatives at Amrita including Amrita AHEAD Online programs, curriculum design for UG and PG programs, process initiatives, course content development, and mentoring junior faculty members. His interview on Concise Introduction to Computer Science & Engineering can be watched at <a href="https://www.youtube.com/watch?v=rFPMD9cJ99Q">YouTube</a></p>
+              <p>Varsha P Suresh currently serves as an Assisstant Professor Department of CSE and AI at the School of Computing, Amrita Vishwa Vidyapeetham, Amritapuri. She has completed M. Tech. in Computer Science and Systems Engineering. </p>
+              <p>She is passionate about teaching and her teaching interests include compilers, programming, algorithms, data structures, software testing and verification. Apart from these, she guides B. Tech. projects.</p>
+              <p>She has five publications. Her interview on Concise Introduction to Computer Science & Engineering can be watched at <a href="https://www.youtube.com/watch?v=rFPMD9cJ99Q">YouTube</a></p>
             </div>
           </div>
         </div>
