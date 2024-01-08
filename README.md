@@ -19,12 +19,12 @@
       <div class="row">
         <div class="col-lg-4 col-md-6 col-sm-12">
           <div class="card" style="width: 15rem;">
-            <img src="photo.jpg" class="card-img-top" alt="Photo">
+            <img src="download.jpeg" class="card-img-top" alt="Photo">
           </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-6">
           <div class="card-body">
-            <h5 class="card-title">Dr. Swaminathan J</h5>
+            <h5 class="card-title">Varsha P Suresh</h5>
             <p class="card-text">Assisstant Professor<br>
               Amrita School of Computing<br>
               Amritapuri Campus<br>
