@@ -95,8 +95,6 @@
                 </li>   
                 <li class="list-group-item">
                   <span class="badge bg-secondary">C</span> 	Gracy Philip, Varsha P. Suresh, Meenakshi D'Souza: Safety Validation Using AADL System Architecture Models. ISEC 2018: 7:1-7:10
-[+] Coauthor network
-
                 </li>   
               </ol>
             </div>
