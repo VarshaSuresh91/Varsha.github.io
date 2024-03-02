@@ -82,15 +82,27 @@
             <div class="accordion-body">
               <ol reversed="reversed" class="list-group list-group-numbered list-group-flush">
                 <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> A. Prasanthan, K. S. Anand, B. P. Nair, K. Gautham Santhosh and J. Swaminathan, "Low Code Backend As A Service Platform," 2023 World Conference on Communication & Computing (WCONF), RAIPUR, India, 2023, pp. 1-8, doi: 10.1109/WCONF58270.2023.10234969.
-                </li>                
+                  <span class="badge bg-secondary">C</span> Varsha P. Suresh, Rekha R. Pai, Deepak D'Souza, Meenakshi D'Souza, Sujit Kumar Chakrabarti: Static Race Detection for Periodic Programs. ESOP 2022: 290-316
+                </li>   
+                <li class="list-group-item">
+                  <span class="badge bg-secondary">C</span> Varsha P. Suresh, Sujit Kumar Chakrabarti, Athul Suresh, Raoul Jetley: WBS: Weighted Backtracking Strategy for Symbolic Testing of Embedded Software. SEKE 2022: 172-177
+                </li>   
+                <li class="list-group-item">
+                  <span class="badge bg-secondary">C</span> Varsha P. Suresh, Sujit Kumar Chakrabarti, Raoul Jetley, Devina Mohan: Handling Backtracking for Symbolic Testing of Embedded Software. ETFA 2019: 1445-1448
+                </li>   
+                <li class="list-group-item">
+                  <span class="badge bg-secondary">C</span> Varsha P. Suresh, Sujit Chakrabarti, Raoul Jetley: Automated Test Case Generation for Programmable Logic Controller Code. ISEC 2019: 29:1-29:4
+                </li>   
+                <li class="list-group-item">
+                  <span class="badge bg-secondary">C</span> 	Gracy Philip, Varsha P. Suresh, Meenakshi D'Souza: Safety Validation Using AADL System Architecture Models. ISEC 2018: 7:1-7:10
+[+] Coauthor network
+
+                </li>   
               </ol>
             </div>
           </div>
         </div>
       </div>
     </div>
-    <script type="text/javascript" src="script.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-  </body>
+    </body>
 </html>
