@@ -53,9 +53,9 @@
           </h2>
           <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne">
             <div class="accordion-body">
-              <p>Varsha P Suresh currently serves as an Assisstant Professor Department of CSE and AI at the School of Computing, Amrita Vishwa Vidyapeetham, Amritapuri. She has completed M. Tech. in Computer Science and Systems Engineering. </p>
+              <p>Varsha P Suresh currently serves as Assistant Professor in the Computer Science and Engineering Department at Amrita Vishwa Vidyapeetham, Amritapuri. Her research interests are in Formal Methods, Embedded Systems, Static Analysis, Software Testing, Software Verification Model Based Development for Embedded Software and Application of AI in Formal Verification.</p>
               <p>She is passionate about teaching and her teaching interests include compilers, programming, algorithms, data structures, software testing and verification. Apart from these, she guides B. Tech. projects.</p>
-              <p>She has five publications. Her interview on Concise Introduction to Computer Science & Engineering can be watched at <a href="https://www.youtube.com/watch?v=rFPMD9cJ99Q">YouTube</a></p>
+              <p>She completed her PhD from International Institute of Information Technology Bangalore (IIITB). Her thesis was on "Formal Methods for Quality Assurance of Embedded Software". She was awarded ABB PhD Fellowship. She completed her MTech in Computer Science and Systems Engineering and BTech in Computer Science and Engineering from Government Engineering College Idukki, Kerala.</p>
             </div>
           </div>
         </div>
