@@ -68,14 +68,7 @@
           <div id="collapseTwo" class="accordion-collapse collapse show" aria-labelledby="headingTwo">
             <div class="accordion-body">
               <div class="list-group">
-                <a href="https://github.com/swaminathanj/ProblemSolving/blob/master/Home.md" class="list-group-item list-group-item-action"><span class="badge bg-primary">1</span> Problem Solving and Programmming</a>
-                <a href="https://swaminathanj.github.io/oop/01_intro.html" class="list-group-item list-group-item-action"><span class="badge bg-primary">2</span> Object Oriented Programming</a>
-                <a href="https://github.com/swaminathanj/DSA/blob/master/Lectures.md" class="list-group-item list-group-item-action"><span class="badge bg-primary">3</span> Data Structures and Algorithms</a>
-                <a href="https://swaminathanj.github.io/algo/01_Intro.html" class="list-group-item list-group-item-action"><span class="badge bg-primary">4</span> Design and Analysis of Algorithms</a>
-                <a href="https://swaminathanj.github.io/fsm/fsm.html" class="list-group-item list-group-item-action"><span class="badge bg-primary">5</span> Finite State Automata</a>
-                <a href="https://swaminathanj.github.io/cg/index.html" class="list-group-item list-group-item-action"><span class="badge bg-primary">6</span> Computational Geometry</a>
-                <a href="https://swaminathanj.github.io/pr/home.html" class="list-group-item list-group-item-action"><span class="badge bg-primary">7</span> Program Reasoning</a>
-                <a href="https://github.com/swaminathanj/fsd/blob/main/main.md" class="list-group-item list-group-item-action"><span class="badge bg-primary">8</span> Full Stack Development with Python</a>
+                <a href="https://swaminathanj.github.io/oop/01_intro.html" class="list-group-item list-group-item-action"><span class="badge bg-primary">1</span> Object Oriented Programming</a>
             </div>
           </div>
         </div>
@@ -91,92 +84,6 @@
                 <li class="list-group-item">
                   <span class="badge bg-secondary">C</span> A. Prasanthan, K. S. Anand, B. P. Nair, K. Gautham Santhosh and J. Swaminathan, "Low Code Backend As A Service Platform," 2023 World Conference on Communication & Computing (WCONF), RAIPUR, India, 2023, pp. 1-8, doi: 10.1109/WCONF58270.2023.10234969.
                 </li>                
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> Indhu Priya B. and Swaminathan J., "Enhancing Software Fault Localization Using Deep Learning Techniques," 2023 World Conference on Communication & Computing (WCONF), RAIPUR, India, 2023, pp. 1-5, doi: 10.1109/WCONF58270.2023.10235227.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-danger">J</span> Nair, Lekshmi S., Swaminathan J., and Sai Pavan Krishna Nagam. 2023. "An Improved Link Prediction Approach for Directed Complex Networks Using Stochastic Block Modeling" Big Data and Cognitive Computing 7, no. 1: 31. https://doi.org/10.3390/bdcc7010031
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-info">B</span> Jose, D., Swaminathan, J. (2023). A Model in Healthcare Cloud for Securing the Data Using Fog Computing. In: Tuba, M., Akashe, S., Joshi, A. (eds) ICT Infrastructure and Computing. Lecture Notes in Networks and Systems, vol 520. Springer, Singapore. https://doi.org/10.1007/978-981-19-5331-6_45.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> A. R. Kurup, G. P. Sajeev and S. J, "Truth Inference in Crowdsourcing Under Adversarial Attacks," 2022 International Conference on Connected Systems & Intelligence (CSI), Trivandrum, India, 2022, pp. 1-6, doi: 10.1109/CSI54720.2022.9923985.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> A. Mohan and S. Jayaraman, "Enabling Granular Exploration of Sequence Diagrams with Activity Diagrams," 2022 International Conference on Computing, Communication, Security and Intelligent Systems (IC3SIS), 2022, pp. 1-6, doi: 10.1109/IC3SIS54991.2022.9885450.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-danger">J</span> Lekshmi S. Nair, Jo Cheriyan and J. Swaminathan, "Microscopic Structural Analysis of Complex Networks: An Empirical Study Using Motifs," in IEEE Access, vol. 10, pp. 33220-33229, 2022, doi: 10.1109/ACCESS.2022.3160206.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> J. J. T and J. Swaminathan, "An Experimental Study of Parallelism in Different Python Frameworks," 2022 International Conference on Inventive Computation Technologies (ICICT), 2022, pp. 363-366, doi: 10.1109/ICICT54344.2022.9850566.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> G. Manimaran and J. Swaminathan, "Focal-WNet: An Architecture Unifying Convolution and Attention for Depth Estimation," 2022 IEEE 7th International conference for Convergence in Technology (I2CT), 2022, pp. 1-7, doi: 10.1109/I2CT54291.2022.9824488.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> A. Aditya, R. Vinod, A. Kumar, I. Bhowmik and J. Swaminathan, "Classifying Speech into Offensive and Hate Categories along with Targeted Communities using Machine Learning," 2022 International Conference on Inventive Computation Technologies (ICICT), 2022, pp. 291-295, doi: 10.1109/ICICT54344.2022.9850944.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> S. Saran, M. T. Vignesh, G. V. S. Sundar, M. S. Naidu and S. Jayaraman, "File Compilation in a Constrained Distributed Scenario for an Optimal Resource Allocation," 2022 6th International Conference on Computing Methodologies and Communication (ICCMC), 2022, pp. 1592-1596, doi: 10.1109/ICCMC53470.2022.9753975.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> Lekshmi. H O and S. Jayaraman, "English -Malayalam Vision aid with Multi Modal Machine Learning Technologies," 2022 6th International Conference on Intelligent Computing and Control Systems (ICICCS), 2022, pp. 1469-1476, doi: 10.1109/ICICCS53718.2022.9788187.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-danger">J</span> Ayswarya R. Kurup, G. P. Sajeev, Swaminathan Jayaraman, "Aggregating Reliable Submissions in Crowdsourcing Systems", in IEEE Access, vol. 9, pp. 153058-153071, 2021, doi: 10.1109/ACCESS.2021.3127994.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> B. Satwik, K. G. Manoj, S. R. Immadi and S. Jayaraman, "Visualization of Distributed Program Execution," 2021 12th International Conference on Computing Communication and Networking Technologies (ICCCNT), 2021, pp. 1-6, doi: 10.1109/ICCCNT51525.2021.9579575.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> S. Saran, M. T. Vignesh, G. V. S. Sundar, M. S. Naidu and S. Jayaraman, "An Optimal Algorithm to Maximize Vaccine Production in a Distributed Environment," 2021 12th International Conference on Computing Communication and Networking Technologies (ICCCNT), 2021, pp. 1-6, doi: 10.1109/ICCCNT51525.2021.9580008.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> S. Dixit, T. K. Geethna, S. Jayaraman and V. Pavithran, "AngErza: Automated Exploit Generation," 2021 12th International Conference on Computing Communication and Networking Technologies (ICCCNT), 2021, pp. 1-6, doi: 10.1109/ICCCNT51525.2021.9579959.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-info">B</span> Shobitha, M., Sidharth, R.P., Sreesruthi, P.K., Varun Raj, P., Swaminathan, J. (2022). Comparison of Concurrent Program Behavior Using Java Interactive Visualization Environment. In: Smys, S., Balas, V.E., Palanisamy, R. (eds) Inventive Computation and Information Technologies. Lecture Notes in Networks and Systems, vol 336. Springer, Singapore. doi: 10.1007/978-981-16-6723-7_29.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-danger">J</span> K. P. Jevitha, Swaminathan Jayaraman, Bharat Jayaraman, M. Sethumadhavan, "Finite-state model extraction and visualization from Java program execution", Softw Pract Exper. 2021; 51: 409– 437. https://doi.org/10.1002/spe.2910.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> Namitha S. Nair, Aswathy Mohan and Swaminathan Jayaraman, "Interactive Exploration of Compact Sequence Diagrams - JIVE based approaches," 2020 Third International Conference on Smart Systems and Inventive Technology (ICSSIT), Tirunelveli, India, 2020, pp. 907-912, doi: 10.1109/ICSSIT48917.2020.9214261.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> Kanchan Karippara, Adithya D. Nayar, Vivek Illikkal, Nandu Vasudevan and Swaminathan Jayaraman, "Synthesis, Analysis and Visualization of Networked Executions," 2020 5th International Conference on Communication and Electronics Systems (ICCES), COIMBATORE, India, 2020, pp. 430-435, doi: 10.1109/ICCES48766.2020.9138091.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> Mayank Pugalia, Aswin Ashok and Swaminathan Jayaraman, "A Hybrid Algorithm for Optimized Resource Allocation under Constrained Task Schedule,"  Fourth International Conference on Computing Methodologies and Communication (ICCMC), Erode, India, 2020, pp. 136-141, doi: 10.1109/ICCMC48092.2020.ICCMC-00028.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> Lekshmi S. Nair and J. Swaminathan, "Towards Reduction of Software Maintenance Cost through Assignment of Critical Functionality Scores," 2020 5th International Conference on Communication and Electronics Systems (ICCES), COIMBATORE, India, 2020, pp. 199-204, doi: 10.1109/ICCES48766.2020.9138071.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> A. A. Aziz, M. Unny, S. Niranjana, M. Sanjana and J. Swaminathan, "Decoding Parallel Program Execution by using Java Interactive Visualization Environment (JIVE): Behavioral and Performance Analysis," 2019 3rd International Conference on Computing Methodologies and Communication (ICCMC), Erode, India, 2019, pp. 792-797, doi: 10.1109/ICCMC.2019.8819754.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-info">B</span> Devi Sree Rajan, Swaminathan Jayaraman, "Construction of activity diagrams from Java execution traces," In: Perez G., Tiwari S., Trivedi M., Mishra K. (eds) <i>Ambient Communications and Computer Systems. Advances in Intelligent Systems and Computing</i>, Springer, Singapore, 2018, vol 696, pp. 641-655. DOI: 10.1007/978-981-10-7386-1_54.
-                <li class="list-group-item">
-                  <span class="badge bg-danger">J</span> Swaminathan Jayaraman, Bharat Jayaraman and Demian Lessa, "Compact visualization of Java program execution", <i>Software: Practice & Experience, John Wiley & Sons Inc.,</i> 2017, vol. 47, pp. 163-191. DOI: 10.1002/spe.2411.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> Aparna K Das and Swaminathan Jayaraman, "Building a common notation for enabling comparison of design and execution," in proceedings of <i>International Conference on  Advances in Computing, Communications and Informatics (ICACCI)</i>, Udupi, 2017, pp. 1609 - 1612. DOI: 10.1109/ ICACCI.2017.8126072.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> M. Mithun; Swaminathan Jayaraman, "Comparison of sequence diagram from execution against design-time state specification," in proceedings of <i>International Conference on  Advances in Computing, Communications and Informatics (ICACCI)</i>, Udupi, 2017, pp. 1387 - 1392. DOI: 10.1109/ ICACCI.2017.8126034.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-info">B</span> Lukasz Ziarek, Bharat Jayaraman, Demian Lessa and Swaminathan Jayaraman, "Runtime visualization and verification in JIVE," In: Falcone Y., Sánchez C. (eds) <i>Runtime Verification. RV 2016. Lecture Notes in Computer Science</i>, Springer, Cham, 2016, vol 10012., pp. 491-494. DOI: 10.1007/978-3-319-46982-9_33.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> Swaminathan Jayaraman, Dinoop Hari and Bharat Jayaraman, "Consistency of Java run-time behavior with design-time specifications," in proceedings of <i>Eighth International Conference on Contemporary Computing (IC3)</i>, Noida, 2015, pp. 548-554. DOI: 10.1109/IC3.2015.7346742.
-                </li>
-                <li class="list-group-item">
-                  <span class="badge bg-secondary">C</span> Swaminathan Jayaraman, Kishor Kamath Diwakar and Bharat Jayaraman, "Towards program execution summarization: Deriving state diagrams from sequence diagrams," in proceedings of <i>Seventh International Conference on Contemporary Computing (IC3)</i>, Noida, 2014, pp. 299-305. DOI: 10.1109/IC3.2014.6897190.
-                </li>
               </ol>
             </div>
           </div>
